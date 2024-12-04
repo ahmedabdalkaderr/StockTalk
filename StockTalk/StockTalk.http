@@ -1,0 +1,6 @@
+@StockTalk_HostAddress = http://localhost:5157
+
+GET {{StockTalk_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
