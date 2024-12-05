@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockTalk.Service", "StockT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockTalk", "StockTalk\StockTalk.csproj", "{2CA16707-DD72-4D7A-9AA9-92A6A2339CE5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockTalk.Tests", "StockTalk.Test\StockTalk.Tests.csproj", "{16623D4B-7E29-41F7-955C-6F8E064B4F8A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,6 +46,10 @@ Global
 		{2CA16707-DD72-4D7A-9AA9-92A6A2339CE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CA16707-DD72-4D7A-9AA9-92A6A2339CE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CA16707-DD72-4D7A-9AA9-92A6A2339CE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16623D4B-7E29-41F7-955C-6F8E064B4F8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16623D4B-7E29-41F7-955C-6F8E064B4F8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16623D4B-7E29-41F7-955C-6F8E064B4F8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16623D4B-7E29-41F7-955C-6F8E064B4F8A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
