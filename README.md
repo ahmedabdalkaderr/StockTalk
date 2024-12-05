@@ -7,7 +7,7 @@ StockTalk is a backend service designed to manage stock-related entities, includ
 
 1. **Clone the repository**
     ```bash
-      git clone https://github.com/ahmedabdalkaderr/cartify.git
+      git clone https://github.com/ahmedabdalkaderr/StockTalk.git
     ```
 2. **Install dependencies**
    Build project to install required dependencies.
